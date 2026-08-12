@@ -1,0 +1,6 @@
+{
+  "name": "OneNote PDF Stylus Studio",
+  "description": "OneNote notebook environment with PDF import, freehand stylus drawing, highlighter, eraser, shapes, page insertion, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
