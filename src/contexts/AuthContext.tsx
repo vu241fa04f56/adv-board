@@ -186,7 +186,7 @@ export const AuthProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
     []
   );
 
-  const DEFAULT_CLIENT_ID = '447122554579-0vils920hrphrbt1femo496kibt53tp4.apps.googleusercontent.com';
+  const DEFAULT_CLIENT_ID = '611077353881-ttv6vhet99u8kaorncmef2v70tm9itae.apps.googleusercontent.com';
 
   const getClientId = useCallback(() => {
     return (
